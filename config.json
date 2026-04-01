@@ -1,0 +1,6 @@
+{
+  "model": "gemini-2.0-flash",
+  "tools_enabled": ["calculator", "file_reader", "summarizer", "weather", "github"],
+  "logging": true,
+  "memory": true
+}
